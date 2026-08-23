@@ -24,3 +24,7 @@ SELECT *
 FROM Students;
 
 EXEC sp_help 'Students';
+
+
+DROP TABLE Students;
+GO
